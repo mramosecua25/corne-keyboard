@@ -1,5 +1,5 @@
 
-# Keyboard layout by the-frey
+# Keyboard layout by mr
 
 This is a layout that allows access to all the paren keys easily, has a tab on the lower layer (for SUPER-TAB app switching) and some utility features like PGUP/PGDOWN and HOME/END.
 
